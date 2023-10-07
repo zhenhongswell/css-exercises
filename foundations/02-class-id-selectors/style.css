@@ -1,0 +1,30 @@
+p {
+    background-color: lightpink;
+}
+
+p.one{
+    font-family: Verdana;
+}
+
+p.three {
+    font-family: DejaVu Sans;
+}
+
+p.five {
+    font-family: sans-serif;
+}
+
+
+div#two {
+    color: blue;
+    font-size: 36px;
+}
+
+div#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.fontsize24 {
+    font-size: 24px;
+}
